@@ -1,0 +1,26 @@
+CS2 Warmup:
+
+Bot Map:
+
+1. Exercize on Aim_Botz:
+Place Crosshair on Bot Head.
+Move Left and Rigth( A + D) and always keep the Head in Target.
+After 2-3 Strafes Shot. Maximum 2 Shots
+Repeat 50 Times(Kills)
+
+2. Exercize on Aim_Botz:
+Place Crosshair on Bot Head.
+Move with ( W + D) and Counterstrafe with ( A + S )always keep the Head in Target.
+Move with ( W + A) and Counterstrafe with ( S + D )always keep the Head in Target.
+After Counterstrafes Shot. Maximum 2 Shots
+Repeat 50 Times(Kills)
+
+3. Exercize on Fast Aim/Reflex Training:
+Track a bots head for 3s, than shot to the head(pistol).
+Middle Distance to far Distance bots only.
+50Kills
+
+360° Aiming no Spray maximum 5 Shots
+400Kills
+
+Bonus Excercize 100Kills on Deatmatch with real Players
