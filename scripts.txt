@@ -1,0 +1,94 @@
+"C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg"
+
+Reference Link:
+https://developer.valvesoftware.com/wiki/List_of_Counter-Strike_2_console_commands_and_variables
+
+https://cs-scene.de/counter-strike-2/tipps-tricks/granaten-ueben/
+
+“\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg”
+	
+//------------------------------------------------------------------------------	
+exec time
+//------------------------------------------------------------------------------
+//time.cfg
+mp_roundtime_defuse 0
+mp_roundtime_hostage 0
+mp_roundtime 60
+mp_team_intro_time 0
+mp_freezetime 0
+mp_warmup_end
+mp_restartgame 1
+//------------------------------------------------------------------------------
+
+
+//------------------------------------------------------------------------------	
+exec granades
+//------------------------------------------------------------------------------
+//granades.cfg
+bot_kick
+sv_cheats true
+god
+sv_infinite_ammo 1
+ammo_grenade_limit_total 5
+sv_grenade_trajectory_prac_pipreview true
+sv_grenade_trajectory_prac_trailtime 8
+give weapon_flashbang
+give weapon_smokegrenade
+give weapon_hegrenade
+give weapon_molotov
+bind f7 "ent_fire smokegrenade_projectile kill; stopsound"
+bind f8 sv_rethrow_last_grenade
+bind h noclip
+//------------------------------------------------------------------------------
+
+
+sv_grenade_trajectory
+
+Die Granatenkamera aktivierst du mit:
+sv_grenade_trajectory_prac_pipreview true
+
+Und die Flugbahnanzeige einzuschalten, musst du angeben wieviele Sekunden diese sichtbar sein soll
+sv_grenade_trajectory_prac_trailtime 8
+
+Letzten Wurf wiederholen
+bind f8 sv_rethrow_last_greande
+
+sv_cheats true
+
+bot_kick
+	Entfernt alle Bots aus dem Spiel.
+mp_roundtime_defuse 60
+	Rundenzeit von 60 Minuten auf Maps mit Bombenplätzen.
+mp_roundtime_hostage 60
+	Rundenzeit von 60 Minuten auf Maps mit Geiseln.
+mp_roundtime 60
+	Rundenzeit von 60 Minuten. Wird benutzt, wenn die anderen beiden Befehle auf “0” gesetzt sind.
+mp_freezetime 0
+	Es gibt keine “Freeze Time” am Anfang der Runde.
+mp_restartgame 1
+	Match wird neu gestartet.
+mp_warmup_end
+	Aufwärmphase wird sofort beendet.
+sv_infinite_ammo 1
+	Unendlich Munition bzw. Granaten.
+ammo_grenade_limit_total 5
+	Spieler kann bis zu fünf Granaten im Inventar haben.
+noclip
+	Ermöglicht es durch die Map zu fliegen.
+god
+	Du erleidest keinen Schaden.
+	
+give weapon_flashbang
+	Blendgranate
+give weapon_smokegrenade
+	Rauchgranate
+give weapon_hegrenade
+	Splittergranate
+give weapon_molotov
+	Molotowcocktail
+give weapon_incgrenade
+	Brandgranate
+give weapon_decoy
+	Ködergranate
+
+
