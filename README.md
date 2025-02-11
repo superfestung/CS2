@@ -1,5 +1,9 @@
 # CS2
 
+Maps Callouts:
+
+https://totalcsgo.com/callouts
+
 Youtube Guides
 
 Guide Train:
