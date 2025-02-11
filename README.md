@@ -6,6 +6,9 @@ https://totalcsgo.com/callouts
 
 Youtube Guides
 
+Tips all Maps:
+https://youtu.be/i59BlyMzBHE?si=P9oAvgkopyRNEjBl
+
 Flashbangs:
 https://youtu.be/i59BlyMzBHE?si=P9oAvgkopyRNEjBl
 
