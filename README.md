@@ -27,3 +27,11 @@ Mirage Guides:
 
   Smokes:
   https://youtu.be/UK0s3IzI2f0?si=pDSQ_lDg4NqByu_h
+
+Dust 2 Guides:
+
+  Smokes:
+  https://youtu.be/YlntotMJnBg?si=neDTa62TggKzgLqU
+
+  Molotov:
+  https://youtu.be/JWeHpTC-lx0?si=LCuwpocaF5g1OSO3
